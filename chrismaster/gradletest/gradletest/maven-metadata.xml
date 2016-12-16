@@ -3,7 +3,7 @@
   <groupId>chrismaster.gradletest</groupId>
   <artifactId>gradletest</artifactId>
   <versioning>
-    <release>0.10.2</release>
+    <release>0.10.3</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.6</version>
@@ -12,7 +12,8 @@
       <version>0.10.0</version>
       <version>0.10.1</version>
       <version>0.10.2</version>
+      <version>0.10.3</version>
     </versions>
-    <lastUpdated>20161216124428</lastUpdated>
+    <lastUpdated>20161216124921</lastUpdated>
   </versioning>
 </metadata>
