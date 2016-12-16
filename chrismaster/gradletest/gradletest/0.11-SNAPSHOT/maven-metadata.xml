@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>chrismaster.gradletest</groupId>
+  <artifactId>gradletest</artifactId>
+  <version>0.11-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161216.132424</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20161216132424</lastUpdated>
+  </versioning>
+</metadata>
